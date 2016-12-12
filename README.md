@@ -1,4 +1,14 @@
 Simple ScalaJS project to reproduce problem with running tests.
+
+macOS Sierra 10.12.1
+
+PhantomJS 2.1.1
+```
+java -version
+java version "1.8.0_111"
+Java(TM) SE Runtime Environment (build 1.8.0_111-b14)
+Java HotSpot(TM) 64-Bit Server VM (build 25.111-b14, mixed mode)
+```
  
 `sbt`
 
